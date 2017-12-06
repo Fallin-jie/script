@@ -6,6 +6,7 @@
 ## 使用说明
 ### 执行下列命令，然后按提示输入即可
 ```
+yum -y install wget
 wget https://raw.githubusercontent.com/Fallin-jie/script/master/script.sh
 bash script.sh
 ```
